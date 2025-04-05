@@ -1,7 +1,5 @@
 ## Welcome 👋🏻 
 
-<img align="left" src="https://github.com/user-attachments/assets/c32ef437-3490-46bc-892a-2fb87436e26a" width="320"/>
-
 ```
 💻 I'm a Software engineer from Seoul, South Korea
 
